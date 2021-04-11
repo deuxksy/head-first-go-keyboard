@@ -1,4 +1,4 @@
-package head_first_go
+package keyboard
 
 import (
 	"bufio"
